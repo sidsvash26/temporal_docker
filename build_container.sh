@@ -1,0 +1,1 @@
+nvidia-docker run -it --name container1 --net=host temporaldocker
